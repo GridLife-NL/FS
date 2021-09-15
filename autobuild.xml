@@ -294,7 +294,7 @@
       <key>apr_suite</key>
       <map>
         <key>copyright</key>
-        <string>Copyright © 2012 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.</string>
+        <string>Copyright В© 2012 The Apache Software Foundation, Licensed under the Apache License, Version 2.0.</string>
         <key>description</key>
         <string>Apache portable runtime project</string>
         <key>license</key>
@@ -1008,11 +1008,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>1e176ba9a76fe209ce4703db2026ad85</string>
+              <string>0d3038e251adfae031cf13cc39a45eb6</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>file:///opt/firestorm/fmodstudio-2.02.02-linux64-212130644.tar.bz2</string>
+              <string>file:///home/x/src/fmod/fmodstudio-2.02.02-linux64-212581339.tar.bz2</string>
             </map>
             <key>name</key>
             <string>linux64</string>
@@ -1022,11 +1022,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>0335fa6ca762097c85b3090ce2614c3c</string>
+              <string>80da9b93265854f4151bf4171fb82e8a</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>file:///c:/cygwin/opt/firestorm/fmodstudio-2.02.02-windows-212102333.tar.bz2</string>
+              <string>file:///d:/Grid/code/Viewer/sept/fmod/fmodstudio-2.02.02-windows-212581319.tar.bz2</string>
             </map>
             <key>name</key>
             <string>windows</string>
@@ -1036,11 +1036,11 @@
             <key>archive</key>
             <map>
               <key>hash</key>
-              <string>793ba69b7a5ea8fa12ec1a86d5ebd9e2</string>
+              <string>ca9dd8f95d9d9ece12911f7596eaeee0</string>
               <key>hash_algorithm</key>
               <string>md5</string>
               <key>url</key>
-              <string>file:///c:/cygwin/opt/firestorm/fmodstudio-2.02.02-windows64-212102335.tar.bz2</string>
+              <string>file:///d:/Grid/code/Viewer/sept/fmod/fmodstudio-2.02.02-windows64-212581324.tar.bz2</string>
             </map>
             <key>name</key>
             <string>windows64</string>
@@ -1052,7 +1052,7 @@
       <key>fontconfig</key>
       <map>
         <key>copyright</key>
-        <string>Copyright (C) 2000,2001,2002,2003,2004,2006,2007 Keith Packard, 2005 Patrick Lam, 2009 Roozbeh Pournader, 2008,2009 Red Hat, Inc., 2008 Danilo Šegan, 2012 Google, Inc.</string>
+        <string>Copyright (C) 2000,2001,2002,2003,2004,2006,2007 Keith Packard, 2005 Patrick Lam, 2009 Roozbeh Pournader, 2008,2009 Red Hat, Inc., 2008 Danilo Е egan, 2012 Google, Inc.</string>
         <key>description</key>
         <string>Fontconfig is a library for configuring and customizing font access.</string>
         <key>license</key>
@@ -2696,11 +2696,11 @@ Copyright (c) 2012, 2014, 2015, 2016 nghttp2 contributors</string>
       <key>nvapi</key>
       <map>
         <key>copyright</key>
-        <string>Copyright © 2012 NVIDIA Corporation.  All rights reserved.</string>
+        <string>Copyright В© 2012 NVIDIA Corporation.  All rights reserved.</string>
         <key>description</key>
         <string>NVAPI provides an interface to NVIDIA devices.</string>
         <key>license</key>
-        <string>NVIDIA Corporation Software License Agreement – NVAPI SDK</string>
+        <string>NVIDIA Corporation Software License Agreement вЂ“ NVAPI SDK</string>
         <key>license_file</key>
         <string>LICENSES/NVAPI_SDK_License_Agreement.pdf</string>
         <key>name</key>
@@ -3186,7 +3186,7 @@ Copyright (c) 2012, 2014, 2015, 2016 nghttp2 contributors</string>
       <key>slvoice</key>
       <map>
         <key>copyright</key>
-        <string>2010 Vivox, including audio coding using Polycom¨ Siren14TM (ITU-T Rec. G.722.1 Annex C)</string>
+        <string>2010 Vivox, including audio coding using PolycomВЁ Siren14TM (ITU-T Rec. G.722.1 Annex C)</string>
         <key>description</key>
         <string>Vivox SDK components</string>
         <key>license</key>
@@ -3276,7 +3276,7 @@ Copyright (c) 2012, 2014, 2015, 2016 nghttp2 contributors</string>
       <key>tut</key>
       <map>
         <key>copyright</key>
-        <string>Copyright 2002-2006 Vladimir Dyuzhev, Copyright 2007 Denis Kononenko, Copyright 2008-2009 Michał Rzechonek</string>
+        <string>Copyright 2002-2006 Vladimir Dyuzhev, Copyright 2007 Denis Kononenko, Copyright 2008-2009 MichaЕ‚ Rzechonek</string>
         <key>description</key>
         <string>TUT is a small and portable unit test framework for C++.</string>
         <key>license</key>
