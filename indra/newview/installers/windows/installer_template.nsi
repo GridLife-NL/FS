@@ -406,12 +406,12 @@ CreateShortCut	"$SMPROGRAMS\$INSTSHORTCUT\$INSTSHORTCUT.lnk" \
 				#"$INSTDIR\$VIEWER_EXE" "$SHORTCUT_LANG_PARAM" "$INSTDIR\$VIEWER_EXE"
 
 
-WriteINIStr		"$SMPROGRAMS\$INSTSHORTCUT\SL Create Account.url" \
+WriteINIStr		"$SMPROGRAMS\$INSTSHORTCUT\Create and Manage GridLife Account.url" \
 				"InternetShortcut" "URL" \
-				"https://www.firestormviewer.org/join-secondlife/"
-WriteINIStr		"$SMPROGRAMS\$INSTSHORTCUT\SL Your Account.url" \
+				"http://gridlife.nl/"
+WriteINIStr		"$SMPROGRAMS\$INSTSHORTCUT\Scripts and Tools.url" \
 				"InternetShortcut" "URL" \
-				"https://www.secondlife.com/account/"
+				"https://www.outworldz.com/"
 WriteINIStr		"$SMPROGRAMS\$INSTSHORTCUT\LSL Scripting Language Help.url" \
 				"InternetShortcut" "URL" \
                 "http://wiki.secondlife.com/wiki/LSL_Portal"
